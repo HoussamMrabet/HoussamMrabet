@@ -16,10 +16,13 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Material UI](https://img.shields.io/badge/-Mui-333333?style=flat&logo=mui)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
