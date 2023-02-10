@@ -55,5 +55,3 @@
 <a href="https://www.instagram.com/houssam_mrabet_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-houssam_mrabet_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:houssammrabet5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-houssammrabet5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
