@@ -50,8 +50,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="[Portfolio](https://houssammrabet.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/houssam-mrabet-6b758a176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Houssam%20Mrabet-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/houssam_mrabet_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-houssam_mrabet_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:houssammrabet5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-houssammrabet5@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="[Portfolio](https://houssammrabet.netlify.app/)" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/houssam-mrabet-6b758a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Houssam%20Mrabet-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/houssam_mrabet_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-houssam_mrabet_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:houssammrabet5@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-houssammrabet5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
