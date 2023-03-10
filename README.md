@@ -10,8 +10,11 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=8993be)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -22,9 +25,7 @@
   ![Material UI](https://img.shields.io/badge/-Mui-333333?style=flat&logo=mui)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
