@@ -11,21 +11,22 @@
 
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=8993be)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![C](https://img.shields.io/badge/-333333?style=flat&logo=c)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material UI](https://img.shields.io/badge/-Mui-333333?style=flat&logo=mui)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Chakra UI](https://img.shields.io/badge/-ChakraUI-333333?style=flat&logo=chakraui)
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -52,9 +53,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://houssammrabet.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/houssam-mrabet-6b758a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Houssam%20Mrabet-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/houssam_mrabet_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-houssam_mrabet_-blue?style=flat-square&logo=instagram"></a>
+<p>
+<a href="https://github.com/HoussamMrabet" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/houssam-mrabet-6b758a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/houssam_mrabet_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram"></a>
 <a href="mailto:houssammrabet5@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-houssammrabet5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
