@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Houssam Mrabet currently an ALX peer</h2>
+<h2> Hey there! I'm Houssam Mrabet currently an ALX and 1337 peer </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
