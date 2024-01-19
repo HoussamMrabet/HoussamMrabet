@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Houssam Mrabet currently an ALX and 1337 peer </h2>
 
+<a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/binary/hmrabet" alt="hmrabet's 42 stats" /></a>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
