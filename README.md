@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Houssam Mrabet currently an ALX and 1337 peer </h2>
+<h2> Hey there! I'm Houssam Mrabet currently a 42 Network student (1337 Khouribga campus)</h2>
 
-<a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/binary/hmrabet" alt="hmrabet's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/hmrabet" alt="hmrabet's 42 stats" /></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
