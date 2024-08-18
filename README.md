@@ -50,9 +50,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houssammrabet&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssammrabet&theme=buefy&layout=compact" />
 </a>
-
 <br/>
-<img width="81%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HOUBET&layout=compact&theme=light">
+<br/>
+<img width="75.5%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HOUBET&layout=compact&theme=light">
 <br/>
 <a href="https://wakatime.com/@2e79b262-ef9e-44f2-bae7-20042e89d845"><img src="https://wakatime.com/badge/user/2e79b262-ef9e-44f2-bae7-20042e89d845.svg" alt="Total time coded since Aug 18 2024" /></a>
 <br/>
