@@ -54,7 +54,7 @@
 <br/>
 <img width="81%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HOUBET&layout=compact&theme=light">
 <br/>
-<a width="60%" href="https://wakatime.com/@2e79b262-ef9e-44f2-bae7-20042e89d845"><img src="https://wakatime.com/badge/user/2e79b262-ef9e-44f2-bae7-20042e89d845.svg" alt="Total time coded since Aug 18 2024" /></a>
+<a href="https://wakatime.com/@2e79b262-ef9e-44f2-bae7-20042e89d845"><img src="https://wakatime.com/badge/user/2e79b262-ef9e-44f2-bae7-20042e89d845.svg" alt="Total time coded since Aug 18 2024" /></a>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
