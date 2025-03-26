@@ -58,7 +58,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://github.com/HoussamMrabet" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome"></a>
+<a href="https://hmrabet.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/houssam-mrabet-6b758a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/houssam_mrabet_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram"></a>
 <a href="mailto:houssammrabet5@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-houssammrabet5@gmail.com-blue?style=flat-square&logo=gmail"></a>
