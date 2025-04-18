@@ -1,13 +1,12 @@
-<h2> Hey there! I'm Houssam Mrabet currently a 42 Network student (1337 Khouribga campus)</h2>
+<h2> Hey there! I'm Houssam Mrabet — a 42 Network student at 1337 Khouribga 🚀 </h2>
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/greenbinary/hmrabet" alt="hmrabet's 42 stats" /></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; Working as a web developer freelancer.
-- 🌱 &nbsp; Learning more about Web3.0, Blockchain and Artificial Intelligence.
+- 💻 &nbsp; Web & Mobile Developer | JavaScript Lover 💙
+- 🌐 &nbsp; Building real-world solutions with React, Next.js, and Node.js
+- 🧠 &nbsp; Learning Cybersecurity, Blockchain, Web3 & AI
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
