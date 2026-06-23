@@ -9,6 +9,12 @@
 
 # `~/houssam_mrabet`
 
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img width="70%" src="https://badge.mediaplus.ma/greenbinary/hmrabet" alt="hmrabet — 42 stats" />
+  </a>
+</div>
+
 **Software Engineer · 1337 / 42 Network · Morocco**
 
 <a href="https://hmrabet.me/"><img src="https://img.shields.io/badge/portfolio-hmrabet.me-FFB454?style=flat-square&labelColor=0B0E14&logo=vercel&logoColor=FFB454" alt="portfolio" /></a>
@@ -77,12 +83,6 @@ details people actually feel when they use what I build.
 * e9c12af  (experience)  Waffles Studio · Web & Mobile Developer (remote)    2024
 * 4af7806  Ibn Sina, Kenitra · Desktop App Developer                        2019
 ```
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img width="70%" src="https://badge.mediaplus.ma/greenbinary/hmrabet" alt="hmrabet — 42 stats" />
-  </a>
-</div>
 
 ---
 
