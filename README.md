@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFB454&center=true&vCenter=true&width=720&height=60&lines=Software+Engineer+%40+1337+%2F+42+Network;I+build+from+the+syscall+up+to+the+UI;Systems+in+C+%2F+C%2B%2B+and+Web+in+React+%26+Next.js" alt="Houssam Mrabet" />
 
-# `~/houssam`
+# `~/houssam_mrabet`
 
 **Software Engineer · 1337 / 42 Network · Morocco**
 
