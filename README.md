@@ -72,20 +72,6 @@ details people actually feel when they use what I build.
 
 ---
 
-### `$ git log --oneline`
-
-```bash
-* a1f3c9d  (HEAD -> education)  1337 · Digital Technology Architect          2023 — now
-* 7d2e4b0  Ibn Tofail University · Licence, Maths & Computer Science         2021 — 2022
-* 3c8a0f5  Ibn Tofail University · DEUG, Maths & Computer Science            2020 — 2021
-* b5610da  BTS Kenitra · DUT, Information Systems Development                2018 — 2020
-
-* e9c12af  (experience)  Waffles Studio · Web & Mobile Developer (remote)    2024
-* 4af7806  Ibn Sina, Kenitra · Desktop App Developer                        2019
-```
-
----
-
 ### `$ git stats --all`
 
 <div align="center">
